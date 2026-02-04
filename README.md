@@ -80,6 +80,3 @@ This structure enables flexible slicing across players, games, and financial met
 
 Created by a Senior Data Engineer with professional experience in data analytics, business intelligence, and data-driven solution design.
 
-
-dashboard-preview.png
-
