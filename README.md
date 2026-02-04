@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="Screenshot 2026-02-04 at 10 08 15" src="https://github.com/user-attachments/assets/f9289e2c-1025-4a4f-9419-e6e4ab4ebc10" /># Gaming Analytics Dashboard (Tableau)
+Gaming Analytics Dashboard (Tableau)
 
 ## Overview
 
@@ -79,3 +79,7 @@ This structure enables flexible slicing across players, games, and financial met
 ## Author
 
 Created by a Senior Data Engineer with professional experience in data analytics, business intelligence, and data-driven solution design.
+
+
+dashboard-preview.png
+
