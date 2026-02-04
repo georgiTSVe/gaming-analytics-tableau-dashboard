@@ -79,4 +79,7 @@ This structure enables flexible slicing across players, games, and financial met
 ## Author
 
 Created by a Senior Data Engineer with professional experience in data analytics, business intelligence, and data-driven solution design.
+<img width="1470" height="956" alt="dashboard-preview" src="https://github.com/user-attachments/assets/1b87fcab-39f5-49a5-8e8e-875078936978" />
+
+
 
